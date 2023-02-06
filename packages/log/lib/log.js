@@ -3,5 +3,5 @@
 module.exports = log;
 
 function log() {
-    return "Hello from log";
+    return "Hello from log1";
 }
